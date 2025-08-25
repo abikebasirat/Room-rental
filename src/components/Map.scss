@@ -1,0 +1,77 @@
+  
+.map-botton {
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 10px;
+  margin-right: 20px;
+  transition: background-color 0.3s;
+  
+.map-botton {
+  background-color: #0056b3;
+}
+
+.map-container{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+
+.map-botton-red{
+
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 10px;
+  margin-right: 20px;
+  transition: background-color 0.3s;
+}
+
+.map-botton-red {
+  background-color: #cc0000;
+}
+
+.close{
+  background-color: #cc0000;
+  color: white;
+  padding: 10px;
+  border: none;
+  font-weight: 600;
+  margin-left: 110px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+}
+
+
+
+
+.map-modal {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 800px;
+  height: 500px;
+  padding: 10px;
+  background-color: white;
+}
+
+ span {
+  display: block;
+  margin: 10px 0;
+  color: black;
+  margin-left: 210px;
+  margin-bottom: 200rem;
+ 
+}
+
+
+}
+
